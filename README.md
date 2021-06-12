@@ -15,10 +15,13 @@ https://www.cpuid.com/softwares/hwmonitor.html
 ## Use plugins and themes on discord
 https://github.com/rauenzi/BetterDiscordApp/releases
 
-## Download youtube videos
+## Download YouTube videos
 https://github.com/ytdl-org/youtube-dl/releases
 
 Can also use the gui version: https://mrs0m30n3.github.io/youtube-dl-gui/
+
+## Download Twitch VODs
+https://github.com/lay295/TwitchDownloader/releases
 
 ## See files that are different between 2 versions of a file or folder
 https://winmerge.org/downloads/?lang=en
