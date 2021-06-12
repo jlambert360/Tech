@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+; Created by: Shawn Brink
+; Created on: December 29th 2016
+; Tutorial: https://www.tenforums.com/tutorials/73601-permanently-delete-add-context-menu-windows-10-a.html
+; Extended = shift + right click
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\Windows.PermanentDelete]
+"CommandStateSync"=""
+"ExplorerCommandHandler"="{E9571AB2-AD92-4ec6-8924-4E5AD33790F5}"
+"Icon"="shell32.dll,-33"
+"CommandManager"="Context Menu Tuner"
+"NeverDefault"=""
+"Position"="Bottom"
+;"Extended"=""
+
