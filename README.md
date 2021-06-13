@@ -1,81 +1,77 @@
 # Tech
+<!-- vim-markdown-toc GFM -->
 
-## Windows productivity tool that lets you do things like rebind keyboard shortcuts, get color codes, and customize snap zones
-https://github.com/microsoft/PowerToys/releases
+- [Applicatoins](#applications)
+  - [Hardware](#hardware)
+  - [Utilities](#utilities)
+  - [Customization](#customization)
+  - [Video](#video)
+- [Windows Tools](#windows-tools)
+  - [Productivity](#productivity)
+  - [Privacy](#privacy)
+  - [Windows Customization](#windows-customization)
+  - [Windows Activation Scripts](#windows-activation-scripts)
+  - [Windows Utilities](#windows-utilities)
+- [Other](#other)
 
-## Tweak hidden windows settings
-https://winaerotweaker.com/
+<!-- vim-markdown-toc -->
 
-## Customize the windows right click menu. (You can also do it in winaerotweaker but you can do more with this)
-https://cdn.discordapp.com/attachments/850869254025773106/850919126447685664/ContextMenuTuner.zip
+## Applications
 
-## Shows information about your hardware
-https://www.cpuid.com/softwares/hwmonitor.html
+### Hardware
 
-## Use plugins and themes on discord
-https://github.com/rauenzi/BetterDiscordApp/releases
+- [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+- [GPUz](https://www.techpowerup.com/gpuz/) - Lightweight system utility designed to provide vital information about your video card and graphics processor.
+- [CrystalDiskInfo](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller) - Get information about your SSD or HDD.
+- [CrystalDiskMark](https://crystalmark.info/redirect.php?product=CrystalDiskMarkInstaller) - SSD and HDD benchmarking tool.
 
-## Download YouTube videos
-https://github.com/ytdl-org/youtube-dl/releases
+### Utilities
 
-Can also use the gui version: https://mrs0m30n3.github.io/youtube-dl-gui/
+- [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
+- [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
+- [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 
-## Download Twitch VODs
-https://github.com/lay295/TwitchDownloader/releases
+### Customization
 
-## See files that are different between 2 versions of a file or folder
-https://winmerge.org/downloads/?lang=en
+- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Use plugins and themes on discord.
+- [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 
-## View outgoing connections
-https://download.sysinternals.com/files/TCPView.zip
+### Video
 
-## More advanced task manager that lets you see which programs are being run by what processes and a lot more
-https://download.sysinternals.com/files/ProcessExplorer.zip
+- [YouTube-DL](https://github.com/ytdl-org/youtube-dl/releases) - Download YouTube videos in commandline.
+- [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
+- [TwitchDownloader](https://github.com/lay295/TwitchDownloader/releases) - Download Twitch VODs.
+- [TwitchChannelPoints](https://github.com/lay295/TwitchChannelPoints) - Farm twitch channel points without actually watching streams.
+- [StreamLink](https://github.com/streamlink/streamlink/releases) - Watch video streams on a local video player.
+- [StreamLink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui/releases) - GUI version of streamlink to watch twitch streams in programs like VLC or MPC without ads in source quality.
 
-## Windows 10 privacy
-https://www.oo-software.com/en/shutup10
+## Windows Tools
 
-https://www.w10privacy.de/deutsch-start/download/
+### Productivity
 
-## Debloat Windows 10
-https://github.com/Sycnex/Windows10Debloater
+- [PowerToys](https://github.com/microsoft/PowerToys/releases) - a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
-## See GPU information
-https://www.techpowerup.com/gpuz/
+### Privacy
 
-## View thumbnails in windows explorer for files like photoshop projects
-https://sourceforge.net/projects/sagethumbs/
+- [ShutUp10](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10.
+- [W10Privacy](https://www.w10privacy.de/deutsch-start/download/) - Control Windows 10 privacy settings.
 
-## Remove 3D Objects from This PC
-https://cdn.discordapp.com/attachments/850869254025773106/850873958643007498/Remove_3D_Objects_From_This_PC_64-bit.reg
+### Windows Customization
 
-## Add Permanently Delete to context menu
-https://cdn.discordapp.com/attachments/850869254025773106/850874182077775873/Add_Permanently_delete_to_context_menu.reg
+- [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
+- [Context Menu Tuner](https://winaero.com/context-menu-tuner/) - Tool that allows you to customize Explorer's context menu in Windows 10, Windows 7, 8 and 8.1.
 
-## Tools for SSD/HDD benchmarking and health information
-https://crystalmark.info/en/download/
+### Windows Activation Scripts
 
-## Clear virtual memory at shutdown
--Open registry editor
+- [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods.
+- [Microsoft Office Activation Script](https://github.com/jm33-m0/kms-activate) - Microsoft Office Activation Scripts.
 
--Go to Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
+### Windows Utilities
 
--Set ClearPageFileAtShutdown to 1
+- [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater) - Debloat Windows 10.
+- [Registry Edits](https://github.com/jlambert360/Tech/tree/main/Registry%20Edits) - Useful Windows registry edit files.
+- [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
 
-## Classic start menu customization
-https://github.com/Open-Shell/Open-Shell-Menu
+## Other
 
-## Watch video streams on a local video player
-https://github.com/streamlink/streamlink/releases
-
-## GUI version of streamlink to watch twitch streams in programs like VLC or MPC without ads in source quality
-https://github.com/streamlink/streamlink-twitch-gui/releases
-
-## Activate Windows Script
-https://github.com/massgravel/Microsoft-Activation-Scripts
-
-## Activate Microsoft Office Script
-https://github.com/jm33-m0/kms-activate
-
-## A curated list of best applications and tools for Windows
-https://github.com/Awesome-Windows/Awesome
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - A curated list of best applications and tools for Windows.
