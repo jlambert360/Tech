@@ -6,6 +6,7 @@
   - [Customization](#customization)
   - [Hardware](#hardware)
   - [Productivity](#productivity)
+  - [Recording and Streaming](#recording-streaming)
   - [Utilities](#utilities)
 - [Windows Tools](#windows-tools)
   - [Privacy](#privacy)
@@ -51,6 +52,10 @@
 - [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features
 - [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
+
+### Recording and Live Streaming
+- [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+- [Streamlabs OBS](https://streamlabs.com/) - Fork of OBS Studio that adds features and integration with streamlabs.
 
 ### Utilities
 
