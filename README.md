@@ -1,7 +1,7 @@
 # Tech
 <!-- vim-markdown-toc GFM -->
 
-- [Applicatoins](#applications)
+- [Applications](#applications)
   - [Hardware](#hardware)
   - [Utilities](#utilities)
   - [Customization](#customization)
