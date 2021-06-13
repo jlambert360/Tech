@@ -2,11 +2,11 @@
 <!-- vim-markdown-toc GFM -->
 
 - [Applications](#applications)
+  - [Audio and Video](#audio-video)
   - [Customization](#customization)
   - [Hardware](#hardware)
   - [Productivity](#productivity)
   - [Utilities](#utilities)
-  - [Video](#video)
 - [Windows Tools](#windows-tools)
   - [Privacy](#privacy)
   - [Windows Activation Scripts](#windows-activation-scripts)
@@ -17,6 +17,15 @@
 <!-- vim-markdown-toc -->
 
 ## Applications
+
+### Audio and Video
+
+- [StreamLink](https://github.com/streamlink/streamlink/releases) - Watch video streams on a local video player.
+- [StreamLink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui/releases) - GUI version of streamlink to watch twitch streams in programs like VLC or MPC without ads in source quality.
+- [TwitchDownloader](https://github.com/lay295/TwitchDownloader/releases) - Download Twitch VODs.
+- [TwitchChannelPoints](https://github.com/lay295/TwitchChannelPoints) - Farm twitch channel points without actually watching streams.
+- [YouTube-DL](https://github.com/ytdl-org/youtube-dl/releases) - Download YouTube videos in commandline.
+- [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
 
 ### Customization
 
@@ -44,15 +53,6 @@
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
-
-### Video
-
-- [StreamLink](https://github.com/streamlink/streamlink/releases) - Watch video streams on a local video player.
-- [StreamLink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui/releases) - GUI version of streamlink to watch twitch streams in programs like VLC or MPC without ads in source quality.
-- [TwitchDownloader](https://github.com/lay295/TwitchDownloader/releases) - Download Twitch VODs.
-- [TwitchChannelPoints](https://github.com/lay295/TwitchChannelPoints) - Farm twitch channel points without actually watching streams.
-- [YouTube-DL](https://github.com/ytdl-org/youtube-dl/releases) - Download YouTube videos in commandline.
-- [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
 
 ## Windows Tools
 
