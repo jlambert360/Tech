@@ -21,7 +21,9 @@
 ### Hardware
 
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
-- [GPUz](https://www.techpowerup.com/gpuz/) - Lightweight system utility designed to provide vital information about your video card and graphics processor.
+- [HWiNFO](https://www.hwinfo.com/download/) - All-in-one solution for in-depth hardware information.
+- [CPUz](https://www.cpuid.com/softwares/cpu-z.html) - System utility designed to provide vital information about your CPU.
+- [GPUz](https://www.techpowerup.com/gpuz/) - System utility designed to provide vital information about your video card and graphics processor.
 - [CrystalDiskInfo](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller) - Get information about your SSD or HDD.
 - [CrystalDiskMark](https://crystalmark.info/redirect.php?product=CrystalDiskMarkInstaller) - SSD and HDD benchmarking tool.
 
@@ -30,6 +32,7 @@
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
+- [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 
 ### Customization
 
