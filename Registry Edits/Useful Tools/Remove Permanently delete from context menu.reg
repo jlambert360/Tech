@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Remove Permanently delete from context menu
+
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\Windows.PermanentDelete]
