@@ -59,6 +59,8 @@
 
 ### Productivity
 
+- [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features
+- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
 ### Windows Activation Scripts
