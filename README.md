@@ -20,10 +20,15 @@
 
 ### Audio and Video
 
+- [Audacity](https://www.audacityteam.org/) - Free and open source cross-platform audio software.
+- [HandBrake](https://handbrake.fr/) - Open source video transcoder.
+- [MadVR](http://www.madvr.com/) - Free video renderer which uses the GPU to enhance and improve video playback.
+- [Media Player Classic - Home Cinema](https://github.com/mpc-hc/mpc-hc/releases/) - Free and open-source video and audio player for Windows.
 - [StreamLink](https://github.com/streamlink/streamlink/releases) - Watch video streams on a local video player.
 - [StreamLink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui/releases) - GUI version of streamlink to watch twitch streams in programs like VLC or MPC without ads in source quality.
 - [TwitchDownloader](https://github.com/lay295/TwitchDownloader/releases) - Download Twitch VODs.
 - [TwitchChannelPoints](https://github.com/lay295/TwitchChannelPoints) - Farm twitch channel points without actually watching streams.
+- [VLC Media Player](https://www.videolan.org/vlc/) - Free and open source cross-platform multimedia player.
 - [YouTube-DL](https://github.com/ytdl-org/youtube-dl/releases) - Download YouTube videos in commandline.
 - [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
 
