@@ -4,11 +4,11 @@
 - [Applications](#applications)
   - [Customization](#customization)
   - [Hardware](#hardware)
+  - [Productivity](#productivity)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Windows Tools](#windows-tools)
   - [Privacy](#privacy)
-  - [Productivity](#productivity)
   - [Windows Activation Scripts](#windows-activation-scripts)
   - [Windows Customization](#windows-customization)
   - [Windows Utilities](#windows-utilities)
@@ -31,6 +31,12 @@
 - [GPUz](https://www.techpowerup.com/gpuz/) - System utility designed to provide vital information about your video card and graphics processor.
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [HWiNFO](https://www.hwinfo.com/download/) - All-in-one solution for in-depth hardware information.
+
+### Productivity
+
+- [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features
+- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so
+- [PowerToys](https://github.com/microsoft/PowerToys/releases) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
 ### Utilities
 
@@ -56,12 +62,6 @@
 - [ShutUp10](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [W10Privacy](https://www.w10privacy.de/deutsch-start/download/) - Control Windows 10 privacy settings.
-
-### Productivity
-
-- [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features
-- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so
-- [PowerToys](https://github.com/microsoft/PowerToys/releases) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
 ### Windows Activation Scripts
 
