@@ -8,6 +8,10 @@
   - [Productivity](#productivity)
   - [Recording and Streaming](#recording-streaming)
   - [Utilities](#utilities)
+- [Browser Tech](#browser-tech)
+  - [Browser Utilities](#browser-utilities)
+  - [Extensions](#extensions)
+  - [Extension Settings](#extension-settings)
 - [Windows Tools](#windows-tools)
   - [Privacy](#privacy)
   - [Windows Activation Scripts](#windows-activation-scripts)
@@ -63,6 +67,34 @@
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
+
+## Browser Tech
+
+### Browser Utilities
+
+- [Instantgram](https://theus.github.io/instantgram/) - A bookmarklet for downloading images from Instagram.
+- [Removeddit](https://removeddit.com/about/) - A bookmarklet that is used to display removed and deleted comments/threads from Reddit.
+
+### Extensions
+
+- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - Free password manager.
+- [FrankerFaceZ](https://chrome.google.com/webstore/detail/frankerfacez/fadndhdgpmmaapbmfcknlfgcflmmmieb) - Twitch enhancement suite that provides custom channel emotes, Twitch layout and chat customization, advanced chat moderation tools, and more.
+- [HyperChat](https://chrome.google.com/webstore/detail/hyperchat-optimized-youtu/naipgebhooiiccifflecbffmnjbabdbh) - Optimized YouTube Chat.
+- [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
+- [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd) - Send and receive SMS messages from your phone to your computer.
+- [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with ease.
+- [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skip sponsorships, subscription/interaction begging and more on YouTube videos.
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts that can change the layout of a page, add or remove new functionality and content, or automate actions on webpages.
+- [The Marvellous Suspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Suspend the tabs you aren't using to save memory.
+- [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm) - Twitch Ad Blocker.
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+- [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Control and boost webpage/tab volume from 0 up to 600%.
+
+### Extension Settings
+
+- [Extension Settings Files](https://github.com/jlambert360/Tech/tree/main/Browser%20Extension%20Settings) - Collection of my preconfigured settings files for my browser extensions.
+- [Tampermonkey Scripts](https://github.com/jlambert360/Tech/tree/main/Browser%20Extension%20Settings/Tampermonkey%20Scripts) - Collection of my Tampermonkey scripts.
 
 ## Windows Tools
 
