@@ -40,7 +40,6 @@
 ### Customization
 
 - [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Use plugins and themes on discord.
-- [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 
 ### Hardware
 
@@ -53,8 +52,8 @@
 
 ### Productivity
 
-- [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features
-- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so
+- [Notion](https://www.notion.so/desktop) - Productivity workspace with a ton of features.
+- [Notion Enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace notion.so.
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) - A set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity.
 
 ### Recording and Live Streaming
@@ -65,6 +64,7 @@
 
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
+- [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
 
@@ -100,9 +100,9 @@
 
 ### Privacy
 
-- [PrivateZilla](https://github.com/builtbybel/privatezilla) - Performs a privacy & security check of Windows 10
+- [PrivateZilla](https://github.com/builtbybel/privatezilla) - Performs a privacy & security check of Windows 10.
 - [ShutUp10](https://www.oo-software.com/en/shutup10) - Antispy tool for Windows 10.
-- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide.
 - [W10Privacy](https://www.w10privacy.de/deutsch-start/download/) - Control Windows 10 privacy settings.
 
 ### Windows Activation Scripts
@@ -112,15 +112,15 @@
 
 ### Windows Customization
 
-- [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 - [Context Menu Tuner](https://winaero.com/context-menu-tuner/) - Tool that allows you to customize Explorer's context menu in Windows 10, Windows 7, 8 and 8.1.
-- [Windows 10 Optimizer](https://github.com/hellzerg/optimizer) - Tool that helps to make Windows faster and more secure
+- [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
+- [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 
 ### Windows Utilities
 
-- [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
 - [Registry Edits](https://github.com/jlambert360/Tech/tree/main/Registry%20Edits) - Useful Windows registry edit files.
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater) - Debloat Windows 10.
+- [Windows 10 Optimizer](https://github.com/hellzerg/optimizer) - Tool that helps to make Windows faster and more secure.
 
 ## Other
 
