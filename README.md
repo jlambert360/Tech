@@ -39,7 +39,9 @@
 
 ### Customization
 
-- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Use plugins and themes on discord.
+- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Customize Discord using plugins, themes and settings.
+- [Powercord](https://powercord.dev/) - Customize Discord using plugins, themes and settings.
+- [Vizality](https://vizality.com/) - Customize Discord using plugins, themes and settings.
 
 ### Hardware
 
