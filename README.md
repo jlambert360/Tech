@@ -83,6 +83,7 @@
 - [FrankerFaceZ](https://chrome.google.com/webstore/detail/frankerfacez/fadndhdgpmmaapbmfcknlfgcflmmmieb) - Twitch enhancement suite that provides custom channel emotes, Twitch layout and chat customization, advanced chat moderation tools, and more.
 - [HyperChat](https://chrome.google.com/webstore/detail/hyperchat-optimized-youtu/naipgebhooiiccifflecbffmnjbabdbh) - Optimized YouTube Chat.
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
+- [Nova Youtube](https://chrome.google.com/webstore/detail/nova-youtube/miiheelkbegpkflplpmmkidaklfgjecb) - A set of plugins to enhance YouTube features.
 - [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd) - Send and receive SMS messages from your phone to your computer.
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with ease.
