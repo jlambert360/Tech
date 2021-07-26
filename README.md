@@ -68,6 +68,7 @@
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
+- [TreeSize](https://www.jam-software.com/treesize_free) - Quickly scan directory sizes and find space hogs.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
 
 ## Browser Tech
