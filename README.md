@@ -26,6 +26,7 @@
 ### Audio and Video
 
 - [Audacity](https://www.audacityteam.org/) - Free and open source cross-platform audio software.
+- [DarkAudacity](http://www.darkaudacity.com/download.html) - Dark mode Audacity with customized features.
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder.
 - [MadVR](http://www.madvr.com/) - Free video renderer which uses the GPU to enhance and improve video playback.
 - [Media Player Classic - Home Cinema](https://github.com/mpc-hc/mpc-hc/releases/) - Free and open-source video and audio player for Windows.
