@@ -17,6 +17,8 @@
   - [Windows Activation Scripts](#windows-activation-scripts)
   - [Windows Customization](#windows-customization)
   - [Windows Utilities](#windows-utilities)
+- [Android Apps](#android-apps)
+  - [Video](#apps-video)
 - [Other](#other)
 
 <!-- vim-markdown-toc -->
@@ -128,6 +130,13 @@
 - [Registry Edits](https://github.com/jlambert360/Tech/tree/main/Registry%20Edits) - Useful Windows registry edit files.
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater) - Debloat Windows 10.
 - [Windows 10 Optimizer](https://github.com/hellzerg/optimizer) - Tool that helps to make Windows faster and more secure.
+
+## Android Apps
+
+- [AnYme](https://zunjae.github.io/anymeapp.com/) - Watch and download anime episodes with MAL integration.
+- [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
+- [TwitchMod](https://forum.xda-developers.com/t/apk-mod-5-0-twitchmod-twitch-app-modification.4129481/#post-83001047) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
+- [Youtube Vanced](https://vancedapp.com/) - Modded YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
 
 ## Other
 
