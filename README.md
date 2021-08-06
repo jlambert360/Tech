@@ -18,7 +18,6 @@
   - [Windows Customization](#windows-customization)
   - [Windows Utilities](#windows-utilities)
 - [Android Apps](#android-apps)
-  - [Video](#apps-video)
 - [Other](#other)
 
 <!-- vim-markdown-toc -->
