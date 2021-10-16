@@ -70,6 +70,8 @@
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Remove any files and Windows registry entries left behind by the program's uninstaller or by the Windows uninstall function.
+- [RTX Voice (20 series cards and up)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video.
+- [RTX Voice (10 series cards and below)](https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe) - Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video.
 - [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [TreeSize](https://www.jam-software.com/treesize_free) - Quickly scan directory sizes and find space hogs.
