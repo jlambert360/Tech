@@ -77,6 +77,7 @@
 - [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
 - [TreeSize](https://www.jam-software.com/treesize_free) - Quickly scan directory sizes and find space hogs.
+- [Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
 
 ## Browser Tech
