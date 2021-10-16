@@ -67,6 +67,7 @@
 
 ### Utilities
 
+- [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window.
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Remove any files and Windows registry entries left behind by the program's uninstaller or by the Windows uninstall function.
