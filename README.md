@@ -117,7 +117,6 @@
 
 - [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods.
 - [Microsoft Office Activation Script](https://github.com/jm33-m0/kms-activate) - Microsoft Office Activation Scripts.
-- [Windows 7 OEM Activator](https://github.com/mosesIRL/Windows7-OEM-Activator-old) - Batch script for activating Windows 7 using an OEM certificate.
 
 ### Windows Customization
 
