@@ -101,9 +101,9 @@
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts that can change the layout of a page, add or remove new functionality and content, or automate actions on webpages.
 - [The Marvellous Suspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Suspend the tabs you aren't using to save memory.
 - [TTV LOL](https://chrome.google.com/webstore/detail/ttv-lol/ofbbahodfeppoklmgjiokgfdgcndngjm) - Twitch Ad Blocker.
-- [Twitch Theater Mode for YouTube](https://chrome.google.com/webstore/detail/twitch-theater-mode-for-y/emkgicniaaleakbicedgkimdegnjgbkd) - Changes YouTube theater mode to resemble Twitch theater mode when chat is enabled.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 - [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Control and boost webpage/tab volume from 0 up to 600%.
+- [YouTube Livestreams Theater Mode](https://chrome.google.com/webstore/detail/youtube-livestreams-theat/cmjhejfkhdonjimgkinjdombabgfbcal) - Improves the viewing experience of YouTube livestreams with an enhanced theater mode.
 
 ### Extension Settings
 
