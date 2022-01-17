@@ -72,6 +72,7 @@
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
 - [Icaros](https://www.videohelp.com/software/Icaros) - View thumbnails in windows explorer for files types like mkv, webm and flv.
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Remove any files and Windows registry entries left behind by the program's uninstaller or by the Windows uninstall function.
 - [RTX Voice (20 series cards and up)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video.
