@@ -1,0 +1,25 @@
+Step 1: Enable Dual Messenger for an existing app (e.g. WhatsApp).
+
+Step 2: Enable USB Debugging and connect your device to your computer.
+
+Step 3: Open command prompt in your adb folder.
+
+Step 4: Type
+adb shell pm list users
+
+Step 5: In the resulting list, find the user named "DUAL_APP" and get its number. For example, the number is 95 on my device:
+UserInfo{95:DUAL_APP:20000030} running
+
+Step 6: Type
+exit
+
+Step 7: Have your desired apk file on your pc.
+
+Step 8: Type
+adb install --user 95 "Path to apk"
+
+Remember to replace "95" with whatever number you saw in Step 5.
+
+Wait for the process to finish. A SUCCESS message should be displayed.
+
+The app of your choice will now be installed in Dual Messenger.
