@@ -130,6 +130,7 @@
 ### Windows Customization
 
 - [Context Menu Tuner](https://winaero.com/context-menu-tuner/) - Tool that allows you to customize Explorer's context menu in Windows 10, Windows 7, 8 and 8.1.
+- [Files](https://files.community/) - Windows 11 style file browser with tabs, more customization options, and themes.
 - [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
 - [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 
