@@ -45,6 +45,7 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon - Google Duo.
 adb shell pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle - Ok Google assistant.
 adb shell pm uninstall -k --user 0 com.android.hotwordenrollment.xgoogle - Ok Google assistant.
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox - Google Quick Search Box
+adb shell pm uninstall -k --user 0 com.google.android.tts - Google Speech Services
 
 SAMSUNG PASS / PAY
 adb shell pm uninstall -k --user 0 com.samsung.android.samsungpassautofill - Samsung Pass. Auto fill app.
