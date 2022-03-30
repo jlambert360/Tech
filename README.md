@@ -100,6 +100,7 @@
 - [Nova Youtube](https://chrome.google.com/webstore/detail/nova-youtube/miiheelkbegpkflplpmmkidaklfgjecb) - A set of plugins to enhance YouTube features.
 - [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd) - Send and receive SMS messages from your phone to your computer.
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
+- [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Returns ability to see dislikes to YouTube.
 - [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with ease.
 - [SponsorBlock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skip sponsorships, subscription/interaction begging and more on YouTube videos.
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Run userscripts that can change the layout of a page, add or remove new functionality and content, or automate actions on webpages.
