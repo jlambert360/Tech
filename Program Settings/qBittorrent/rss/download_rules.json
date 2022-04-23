@@ -1,0 +1,21 @@
+{
+    "Shinheki no Kyojin (The Final Season)": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://subsplease.org/rss/?t&r=1080"
+        ],
+        "assignedCategory": "Anime",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "03 Apr 2022 20:46:50 +0000",
+        "mustContain": "Shingeki no Kyojin (The Final Season)",
+        "mustNotContain": "batch, v0",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "D:/JORDAN/Media/Anime/Shingeki no Kyojin Final Season",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    }
+}
