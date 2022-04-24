@@ -63,7 +63,6 @@
 
 ### Recording and Live Streaming
 - [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
-- [Streamlabs OBS](https://streamlabs.com/) - Fork of OBS Studio that adds features and integration with streamlabs.
 
 ### Utilities
 
