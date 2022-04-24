@@ -71,6 +71,7 @@
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window.
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
+- [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
 - [Icaros](https://www.videohelp.com/software/Icaros) - View thumbnails in windows explorer for files types like mkv, webm and flv.
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
