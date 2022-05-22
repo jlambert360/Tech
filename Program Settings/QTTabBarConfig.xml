@@ -83,8 +83,8 @@
     <ViewBorderColor>16777215</ViewBorderColor>
     <ViewFocusedBorderColor>13882323</ViewFocusedBorderColor>
     <TabSwitchItem>10</TabSwitchItem>
-    <ExportDirectory>D:\JORDAN\Backup\QTTabBar\</ExportDirectory>
-    <ExportInterval>7</ExportInterval>
+    <ExportDirectory>D:\JORDAN\Backup\QTTabBar</ExportDirectory>
+    <ExportInterval>30</ExportInterval>
     <FileRenamerDepth>0</FileRenamerDepth>
     <FileRenamerNumStart>1</FileRenamerNumStart>
     <FileRenamerNumIncrement>1</FileRenamerNumIncrement>
