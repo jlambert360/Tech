@@ -93,7 +93,7 @@
 
 ### Extensions
 
-- [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - Tab audio limiter, equalizer, volume control and sound effects.
+- [Audio + Volume Booster & Equalizer](https://chrome.google.com/webstore/detail/audio-%2B-volume-booster-eq/hdmohcenjhllhmcehajbpfpiepjdpnpp) - Tab audio limiter, equalizer, volume control and sound effects.
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) - Free password manager.
 - [FrankerFaceZ](https://chrome.google.com/webstore/detail/frankerfacez/fadndhdgpmmaapbmfcknlfgcflmmmieb) - Twitch enhancement suite that provides custom channel emotes, Twitch layout and chat customization, advanced chat moderation tools, and more.
 - [HyperChat](https://chrome.google.com/webstore/detail/hyperchat-optimized-youtu/naipgebhooiiccifflecbffmnjbabdbh) - Optimized YouTube Chat.
