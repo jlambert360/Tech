@@ -3,7 +3,7 @@
 
 - [Applications](#applications)
   - [Audio and Video](#audio-video)
-  - [Customization](#customization)
+  - [Discord Customization](#discord-customization)
   - [Hardware](#hardware)
   - [Productivity](#productivity)
   - [Recording and Streaming](#recording-streaming)
@@ -40,7 +40,7 @@
 - [YouTube-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 - [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
 
-### Customization
+### Discord Customization
 
 - [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Customize Discord using plugins, themes and settings.
 - [Powercord](https://powercord.dev/) - Customize Discord using plugins, themes and settings.
