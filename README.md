@@ -142,6 +142,7 @@
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer functionality with tabs, extra folder views, and more.
 - [QuickLook](https://github.com/QL-Win/QuickLook/releases) - Preview files quickly by pressing spacebar.
 - [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
+- [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter/releases) - Colorize Windows 10/11 Accents without restrictions.
 - [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/install) - Modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
 ### Windows Utilities
