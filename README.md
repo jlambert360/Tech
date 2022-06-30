@@ -69,6 +69,7 @@
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window.
+- [Chocolatey](https://chocolatey.org/install) - Package manager for Windows.
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
