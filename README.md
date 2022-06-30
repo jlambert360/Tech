@@ -140,6 +140,7 @@
 - [OneCommander](https://www.onecommander.com/) - Free customizable modern file manager for Windows 10 and Windows 11.
 - [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer functionality with tabs, extra folder views, and more.
+- [QuickLook](https://github.com/QL-Win/QuickLook/releases) - Preview files quickly by pressing spacebar.
 - [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 - [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/install) - Modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
