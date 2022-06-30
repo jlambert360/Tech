@@ -137,6 +137,7 @@
 - [Files](https://files.community/) - Windows 11 style file browser with tabs, more customization options, and themes.
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [ModernFlyouts](https://modernflyouts-community.github.io/) - Replaces windows controls like volume and brightness with a more modern design.
+- [OneCommander](https://www.onecommander.com/) - Free customizable modern file manager for Windows 10 and Windows 11.
 - [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic style Start Menu with customization for Windows 7, 8, 8.1, 10.
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer functionality with tabs, extra folder views, and more.
 - [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
