@@ -81,6 +81,7 @@
 - [RTX Voice (10 series cards and below)](https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe) - Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video.
 - [SageThumbs](https://sourceforge.net/projects/sagethumbs/) - View thumbnails in windows explorer for files like photoshop projects.
 - [TCPView](https://download.sysinternals.com/files/TCPView.zip) - View outgoing connections.
+- [TeraCopy](https://www.codesector.com/downloads) - File copy utility that can copy files faster with multithreading and more reliably than windows explorer.
 - [TreeSize](https://www.jam-software.com/treesize_free) - Quickly scan directory sizes and find space hogs.
 - [Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation.
 - [WinMerge](https://winmerge.org/downloads/?lang=en) - See files that are different between 2 versions of a file or folder.
