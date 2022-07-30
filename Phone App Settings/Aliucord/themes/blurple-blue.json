@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "author": "Paol#7272",
+        "version": "1.0.1",
+        "license": "public domain",
+        "updater": "https:\/\/raw.githubusercontent.com\/Paol-M\/aliucord\/main\/blurple-blue.json",
+        "name": "Blurple x Blue"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -6907905,
+        "mention_highlight": 831952895,
+        "background_secondary": -13352586
+    },
+    "colors": {
+        "primary_dark_100": -1710099,
+        "primary_dark_200": -1710099,
+        "primary_dark_300": -9603173,
+        "primary_dark_500": -13352586,
+        "primary_dark_600": -13681810,
+        "primary_dark_900": -15394240,
+        "primary_dark_130": -1710099,
+        "primary_dark_160": -1710099,
+        "primary_dark_230": -6972233,
+        "primary_dark_260": -6972233,
+        "primary_dark_330": -9603173,
+        "primary_dark_360": -6972233,
+        "primary_dark_430": -11445368,
+        "primary_dark_460": -13352586,
+        "primary_dark_530": -13352586,
+        "primary_dark_560": -13681810,
+        "primary_dark_630": -14669481,
+        "primary_dark_730": -14208413,
+        "primary_dark_760": -14669481,
+        "primary_dark_830": -14669481,
+        "primary_dark_860": -15394240,
+        "primary_dark_660": -14208413,
+        "primary_dark_800": -14669481,
+        "uikit_settings_item_text_color_light": -13352586
+    },
+    "drawable_tints": {
+        "ic_group_join": -6907905,
+        "drawable_voice_indicator_speaking": -6907905
+    }
+}

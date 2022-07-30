@@ -155,6 +155,7 @@
 
 ## Android Apps
 
+- [Aliucord](https://github.com/Aliucord/Aliucord) - BetterDiscord for Android.
 - [AnYme](https://zunjae.github.io/anymeapp.com/) - Watch and download anime episodes with MAL integration.
 - [Harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free&hl=en_US&gl=US) - Custom twitter app with ad block, better searching, and better video player.
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
