@@ -42,3 +42,7 @@ adb shell pm uninstall -k --user 0 com.microsoft.office.word
 adb shell pm uninstall -k --user 0 com.google.android.youtube
 adb shell pm uninstall -k --user 0 com.facebook.system
 adb shell pm uninstall -k --user 0 com.facebook.appmanager
+adb shell pm uninstall -k --user 0 com.sec.android.app.DataCreate
+adb shell pm uninstall -k --user 0 com.sec.android.widgetapp.samsungapps
+adb shell pm uninstall -k --user 0 com.samsung.android.themestore
+adb shell pm uninstall -k --user 0 com.facebook.katana
