@@ -156,11 +156,10 @@
 ## Android Apps
 
 - [Aliucord](https://github.com/Aliucord/Aliucord) - BetterDiscord for Android.
-- [AnYme](https://zunjae.github.io/anymeapp.com/) - Watch and download anime episodes with MAL integration.
-- [Harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free&hl=en_US&gl=US) - Custom twitter app with ad block, better searching, and better video player.
+- [Aniyomi](https://aniyomi.jmir.xyz/) - Read and download anime and manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.\
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
-- [TwitchMod](https://forum.xda-developers.com/t/apk-mod-5-0-twitchmod-twitch-app-modification.4129481/#post-83001047) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
-- [Youtube Vanced](https://vancedapp.com/) - Modded YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
+- [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
+- [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
 
 ## Other
 
