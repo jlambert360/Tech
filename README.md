@@ -160,6 +160,7 @@
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
 - [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
+- [Xtra](https://f-droid.org/packages/com.github.andreyasadchy.xtra/) - Twitch client with customizable UI, VOD/Clip downloading, sleep timer, PIP mode, and more.
 
 ## Other
 
