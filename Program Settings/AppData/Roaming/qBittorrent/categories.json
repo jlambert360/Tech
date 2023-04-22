@@ -1,0 +1,23 @@
+{
+    "Anime": {
+        "save_path": "D:/JORDAN/Media/Anime"
+    },
+    "Games": {
+        "save_path": "D:/JORDAN/Media/Games"
+    },
+    "Movies": {
+        "save_path": "D:/JORDAN/Media/Movies"
+    },
+    "Music": {
+        "save_path": "D:/JORDAN/Media/Music"
+    },
+    "Other": {
+        "save_path": "D:/JORDAN/Media/Other"
+    },
+    "TV": {
+        "save_path": "D:/JORDAN/Media/TV"
+    },
+    "Videos": {
+        "save_path": "D:/JORDAN/Media/Videos"
+    }
+}
