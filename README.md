@@ -74,6 +74,7 @@
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
 - [Icaros](https://www.videohelp.com/software/Icaros) - View thumbnails in windows explorer for files types like mkv, webm and flv.
+- [ImageGlass](https://imageglass.org/) - Lightweight photo viewer with thumbnail support for newer formats that Windows Photos doesn't support.
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Remove any files and Windows registry entries left behind by the program's uninstaller or by the Windows uninstall function.
