@@ -36,9 +36,8 @@
 - [TwitchDownloader](https://github.com/lay295/TwitchDownloader/releases) - Download Twitch VODs.
 - [TwitchChannelPoints](https://github.com/lay295/TwitchChannelPoints) - Farm twitch channel points without actually watching streams.
 - [VLC Media Player](https://www.videolan.org/vlc/) - Free and open source cross-platform multimedia player.
-- [YouTube-DL](https://github.com/ytdl-org/youtube-dl/releases) - Download YouTube videos in commandline.
 - [YouTube-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-- [YouTube-DL-GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI version of YouTube-DL.
+- [YouTube-DL-GUI](https://github.com/oleksis/youtube-dl-gui/releases) - GUI version of YouTube-DLP.
 
 ### Discord Customization
 
