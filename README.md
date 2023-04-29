@@ -168,3 +168,4 @@
 ## Other
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - A curated list of best applications and tools for Windows.
+- [Epos Vox's Cool Tools](https://eposvox.com/cooltools) - Curated list of cool niche power user programs and tools.
