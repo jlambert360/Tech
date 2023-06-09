@@ -163,6 +163,7 @@
 - [Kuroba Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser.
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
 - [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
+- [Shuttle2](https://github.com/timusus/Shuttle2) - Manage and play local music on an Android device, as well as music streamed via Jellyfin, Emby or Plex.
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
 - [Xtra](https://f-droid.org/packages/com.github.andreyasadchy.xtra/) - Twitch client with customizable UI, VOD/Clip downloading, sleep timer, PIP mode, and more.
 
