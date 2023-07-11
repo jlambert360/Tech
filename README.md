@@ -30,6 +30,7 @@
 - [DarkAudacity](http://www.darkaudacity.com/download.html) - Dark mode Audacity with customized features.
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder.
 - [LatencyMon](https://www.resplendence.com/latencymon) - Sniff out audio crackles/pops and other driver latency issues.
+- [LosslessCut](https://github.com/mifi/lossless-cut/releases) - The swiss army knife of lossless video/audio editing.
 - [MadVR](http://www.madvr.com/) - Free video renderer which uses the GPU to enhance and improve video playback.
 - [Media Player Classic - Home Cinema](https://github.com/clsid2/mpc-hc/releases) - Free and open-source video and audio player for Windows.
 - [StreamLink](https://github.com/streamlink/streamlink/releases) - Watch video streams on a local video player.
