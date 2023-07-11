@@ -80,6 +80,7 @@
 - [ImageGlass](https://imageglass.org/) - Lightweight photo viewer with thumbnail support for newer formats that Windows Photos doesn't support.
 - [MagickUtils](https://github.com/n00mkrad/magick-utils/releases) - ImageMagick based image processing toolkit for image modifying and conversion.
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
+- [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases) - Nvidia control panel alternative with access to hidden and undocumented settings.
 - [ProcessExplorer](https://download.sysinternals.com/files/ProcessExplorer.zip) - More advanced task manager that lets you see which programs are being run by what processes and a lot more.
 - [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download/) - Remove any files and Windows registry entries left behind by the program's uninstaller or by the Windows uninstall function.
 - [RTX Voice (20 series cards and up)](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Take your livestreams, voice chats, and video conference calls to the next level with AI-enhanced voice and video.
