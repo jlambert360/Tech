@@ -52,6 +52,7 @@
 - [CrystalDiskInfo](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller) - Get information about your SSD or HDD.
 - [CrystalDiskMark](https://crystalmark.info/redirect.php?product=CrystalDiskMarkInstaller) - SSD and HDD benchmarking tool.
 - [CPUz](https://www.cpuid.com/softwares/cpu-z.html) - System utility designed to provide vital information about your CPU.
+- [FurMark](https://geeks3d.com/furmark/downloads/) - Intensive GPU stress test.
 - [GPUz](https://www.techpowerup.com/gpuz/) - System utility designed to provide vital information about your video card and graphics processor.
 - [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [HWiNFO](https://www.hwinfo.com/download/) - All-in-one solution for in-depth hardware information.
