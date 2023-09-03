@@ -108,6 +108,7 @@
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 - [Netflix Extended](https://chrome.google.com/webstore/detail/netflix-extended/gjcgfkhgpaccjpjokgpekpgpphgaanej) - Automatically skip intros, recaps, start next movie/episode and many more features.
 - [Nova Youtube](https://greasyfork.org/en/scripts/433360-nova-youtube) - A set of plugins to enhance YouTube features.
+- [Old Twitter Layout](https://chrome.google.com/webstore/detail/old-twitter-layout-2023/jgejdcdoeeabklepnkdbglgccjpdgpmf) - A new extension that returns old Twitter's look..
 - [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd) - Send and receive SMS messages from your phone to your computer.
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - A suite of modules that enhance your Reddit browsing experience.
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) - Returns ability to see dislikes to YouTube.
