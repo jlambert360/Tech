@@ -45,7 +45,7 @@
 
 - [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) - Customize Discord using plugins, themes and settings.
 - [OpenAsar](https://github.com/GooseMod/OpenAsar) - An open-source alternative of Discord desktop's app.asar.
-- [Vizality](https://vizality.com/) - Customize Discord using plugins, themes and settings.
+- [Vencord](https://vencord.dev/) - Customize Discord using plugins, themes and settings.
 
 ### Hardware
 
