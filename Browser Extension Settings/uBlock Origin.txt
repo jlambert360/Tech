@@ -1,12 +1,13 @@
 {
-  "timeStamp": 1693706807911,
-  "version": "1.51.0",
+  "timeStamp": 1703357505285,
+  "version": "1.54.0",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": false,
-    "externalLists": "https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-script-ubo.user.js\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt\nhttps://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt\nhttps://raw.githubusercontent.com/jorlambert/PrivacyPolicy/master/immortal_domains.txt\nhttps://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt\nhttps://winhelp2002.mvps.org/hosts.txt\nhttps://www.fanboy.co.nz/r/fanboy-ultimate.txt\nhttps://filters.adtidy.org/extension/ublock/filters/14.txt\nhttps://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
+    "externalLists": "https://filters.adtidy.org/extension/ublock/filters/14.txt\nhttps://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt\nhttps://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-script-ubo.user.js\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt\nhttps://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt\nhttps://raw.githubusercontent.com/jorlambert/PrivacyPolicy/master/immortal_domains.txt\nhttps://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt\nhttps://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt\nhttps://winhelp2002.mvps.org/hosts.txt\nhttps://www.fanboy.co.nz/r/fanboy-ultimate.txt",
     "firewallPaneMinimized": false,
     "importedLists": [
+      "https://filters.adtidy.org/extension/ublock/filters/14.txt",
       "https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt",
       "https://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-list-ubo.txt",
       "https://gitlab.com/xuhaiyang1234/AAK-Cont/-/raw/master/FINAL_BUILD/aak-cont-script-ubo.user.js",
@@ -16,10 +17,9 @@
       "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt",
       "https://raw.githubusercontent.com/jorlambert/PrivacyPolicy/master/immortal_domains.txt",
       "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+      "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt",
       "https://winhelp2002.mvps.org/hosts.txt",
-      "https://www.fanboy.co.nz/r/fanboy-ultimate.txt",
-      "https://filters.adtidy.org/extension/ublock/filters/14.txt",
-      "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt"
+      "https://www.fanboy.co.nz/r/fanboy-ultimate.txt"
     ],
     "popupPanelSections": 63
   },
@@ -32,13 +32,16 @@
     "ublock-unbreak",
     "easyprivacy",
     "urlhaus-1",
-    "fanboy-cookiemonster",
-    "fanboy-thirdparty_social",
-    "ublock-annoyances",
     "dpollock-0",
     "plowe-0",
-    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "fanboy-thirdparty_social",
+    "ublock-annoyances",
     "https://filters.adtidy.org/extension/ublock/filters/14.txt",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt",
     "https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt"
   ],
   "hiddenSettings": {
@@ -48,16 +51,28 @@
     "# chrome-scheme",
     "# edge-scheme",
     "# moz-extension-scheme",
+    "# wyciwyg-scheme",
     "about-scheme",
     "archive.org",
     "chrome-extension-scheme",
+    "embassies.gov.il",
+    "gleam.io",
+    "googlecoursera.qwiklabs.com",
+    "login.aliexpress.com",
+    "login.aliexpress.us",
+    "na.redmagic.gg",
     "online.americanexpress.com",
     "opera-scheme",
     "secure.bankofamerica.com",
-    "secure06ea.chase.com"
+    "secure06ea.chase.com",
+    "student.spiderlms.com",
+    "vivaldi-scheme",
+    "www.aliexpress.us",
+    "www.dominos.com",
+    "youtubewrapped.vercel.app"
   ],
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false",
-  "userFilters": "!Youtube\nhttps://ads.youtube.com\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow\nwww.youtube.com##.ytp-ce-covering-overlay\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element > .ytp-ce-element-shadow\n||yt3.ggpht.com/proxy/I2r_1Tf2HdF16CbHh1eNZuR0y9dCa3A4q-8SLQN5XceufvrRQ6y2ap2Ob2EMoL3YY2vjyloIirVIE24altA=-w480-h360$image\nwww.youtube.com##.ytp-ce-covering-image\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element\n||yt3.ggpht.com/proxy/3-44cPdK-XgIwgOj4xIO9tbY-OyEUN3yJRb2YMNTpu2ylNwCklboejfETSHk7az6Mu3xPaNVzgmJOYZ220oRQJ-nlTW7djw45ycbYPXjaaKU4jGn_e7aih7eAFqJdRyYUwZubnyfgX_ZeLrRdTY=-w400-h400-n-rj-c0xffffffff$image\nwww.youtube.com##.ytp-ce-expanding-image\nwww.youtube.com##.ytp-ce-expanding-overlay-background\nwww.youtube.com##.ytp-ce-expanding-overlay\nwww.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element\n\n!Twitch\namazon-adsystem.com\nclips.twitch.tv.player-overlay\nplayer.twitch.tv.player-overlay\ntwitch.tv##+js(twitch-videoad)\nhttps://advice-ads.s3.amazonaws.com\n\n!DoubleClick\nhttps://doubleclick.net/\nhttps://ad.doubleclick.net/\nhttps://static.doubleclick.net\nhttps://m.doubleclick.net\nhttps://mediavisor.doubleclick.net\n\n!FastClick\nhttps://fastclick.com\nhttps://fastclick.net\nhttps://media.fastclick.net/\nhttps://cdn.fastclick.net/\n\n!Facebook\nhttps://analytics.facebook.com\nhttps://graph.facebook.com\nhttps://ads.facebook.com\n\n!Twitter\nhttps://ads-twitter.com\nhttps://static.ads-twitter.com\nhttps://ads-api.twitter.com\nhttps://advertising.twitter.com\n\n!Pinterest\nhttps://ads.pinterest.com\nhttps://widgets.pinterest.com\nhttps://analytics.pinterest.com\nhttps://trk.pinterest.com\n\n!Reddit\nhttps://ads.reddit.com\nhttps://d.reddit.com\nhttps://rereddit.com\nhttps://events.redditmedia.com\n\n!Yandex\nhttps://appmetrica.yandex.com\nhttps://analytics.mobile.yandex.net\nhttps://extmaps-api.yandex.net\nhttps://adsdk.yandex.ru\n\n!Huawei\nhttps://logservice.hicloud.com\nhttps://logservice1.hicloud.com\nhttps://logbak.hicloud.com\n\n!Xiaomi\nhttps://data.mistat.xiaomi.com\nhttps://data.mistat.intl.xiaomi.com\nhttps://data.mistat.india.xiaomi.com\nhttps://data.mistat.rus.xiaomi.com\n\n!4chan\n@@||4chan.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'\n@@|blob:$image,media,domain=4chan.org\n@@||boards.4chan.org^$csp\n@@||4channel.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'\n@@|blob:$image,media,domain=4channel.org\n@@||boards.4channel.org^$csp\n\n!angelthump\nangelthump.com##.MuiTypography-h2.jss18.MuiTypography-root\nangelthump.com##.jss16:style(filter: none !important)\n\n! 2023-04-30 https://vaughn.live\nvaughn.live##.vs_v9_LTabvsLower_beta\n"
+  "userFilters": "!Youtube\nhttps://ads.youtube.com\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow\nwww.youtube.com##.ytp-ce-covering-overlay\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element > .ytp-ce-element-shadow\n||yt3.ggpht.com/proxy/I2r_1Tf2HdF16CbHh1eNZuR0y9dCa3A4q-8SLQN5XceufvrRQ6y2ap2Ob2EMoL3YY2vjyloIirVIE24altA=-w480-h360$image\nwww.youtube.com##.ytp-ce-covering-image\nwww.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-video.ytp-ce-element\n||yt3.ggpht.com/proxy/3-44cPdK-XgIwgOj4xIO9tbY-OyEUN3yJRb2YMNTpu2ylNwCklboejfETSHk7az6Mu3xPaNVzgmJOYZ220oRQJ-nlTW7djw45ycbYPXjaaKU4jGn_e7aih7eAFqJdRyYUwZubnyfgX_ZeLrRdTY=-w400-h400-n-rj-c0xffffffff$image\nwww.youtube.com##.ytp-ce-expanding-image\nwww.youtube.com##.ytp-ce-expanding-overlay-background\nwww.youtube.com##.ytp-ce-expanding-overlay\nwww.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element\n\nyoutube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)\nyoutube.com##+js(set, Object.prototype.adBlocksFound, 0)\nyoutube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])\nyoutube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)\n\n!Twitch\namazon-adsystem.com\nclips.twitch.tv.player-overlay\nplayer.twitch.tv.player-overlay\ntwitch.tv##+js(twitch-videoad)\nhttps://advice-ads.s3.amazonaws.com\n\n!DoubleClick\nhttps://doubleclick.net/\nhttps://ad.doubleclick.net/\nhttps://static.doubleclick.net\nhttps://m.doubleclick.net\nhttps://mediavisor.doubleclick.net\n\n!FastClick\nhttps://fastclick.com\nhttps://fastclick.net\nhttps://media.fastclick.net/\nhttps://cdn.fastclick.net/\n\n!Facebook\nhttps://analytics.facebook.com\nhttps://graph.facebook.com\nhttps://ads.facebook.com\n\n!Twitter\nhttps://ads-twitter.com\nhttps://static.ads-twitter.com\nhttps://ads-api.twitter.com\nhttps://advertising.twitter.com\n\n!Pinterest\nhttps://ads.pinterest.com\nhttps://widgets.pinterest.com\nhttps://analytics.pinterest.com\nhttps://trk.pinterest.com\n\n!Reddit\nhttps://ads.reddit.com\nhttps://d.reddit.com\nhttps://rereddit.com\nhttps://events.redditmedia.com\n\n!Yandex\nhttps://appmetrica.yandex.com\nhttps://analytics.mobile.yandex.net\nhttps://extmaps-api.yandex.net\nhttps://adsdk.yandex.ru\n\n!Huawei\nhttps://logservice.hicloud.com\nhttps://logservice1.hicloud.com\nhttps://logbak.hicloud.com\n\n!Xiaomi\nhttps://data.mistat.xiaomi.com\nhttps://data.mistat.intl.xiaomi.com\nhttps://data.mistat.india.xiaomi.com\nhttps://data.mistat.rus.xiaomi.com\n\n!4chan\n@@||4chan.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'\n@@|blob:$image,media,domain=4chan.org\n@@||boards.4chan.org^$csp\n@@||4channel.org^*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval'\n@@|blob:$image,media,domain=4channel.org\n@@||boards.4channel.org^$csp\n\n!angelthump\nangelthump.com##.MuiTypography-h2.jss18.MuiTypography-root\nangelthump.com##.jss16:style(filter: none !important)\n\n! 2023-04-30 https://vaughn.live\nvaughn.live##.vs_v9_LTabvsLower_beta\n"
 }
