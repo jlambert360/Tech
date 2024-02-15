@@ -77,6 +77,7 @@
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
 - [FanControl](https://github.com/Rem0o/FanControl.Releases/releases) - Highly customizable fan controlling software for Windows.
+- [FClones](https://github.com/pkolaczk/fclones) - Efficient command-line duplicate file finder.
 - [Icaros](https://www.videohelp.com/software/Icaros) - View thumbnails in windows explorer for files types like mkv, webm and flv.
 - [ImageGlass](https://imageglass.org/) - Lightweight photo viewer with thumbnail support for newer formats that Windows Photos doesn't support.
 - [MagickUtils](https://github.com/n00mkrad/magick-utils/releases) - ImageMagick based image processing toolkit for image modifying and conversion.
