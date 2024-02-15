@@ -160,6 +160,7 @@
 
 ### Windows Utilities
 
+- [AppxPackagesManager](https://github.com/amitxv/AppxPackagesManager/releases) - Manage installed windows Appx packages.
 - [Compactor](https://github.com/Freaky/Compactor) - A user interface for Windows 10 filesystem compression.
 - [Registry Edits](https://github.com/jlambert360/Tech/tree/main/Registry%20Edits) - Useful Windows registry edit files.
 - [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater) - Debloat Windows 10.
