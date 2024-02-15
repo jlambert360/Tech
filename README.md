@@ -156,6 +156,7 @@
 - [WinAeroTweaker](https://winaerotweaker.com/) - All-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
 - [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter/releases) - Colorize Windows 10/11 Accents without restrictions.
 - [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/install) - Modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Install Programs, Tweaks, Fixes, and Updates.
 
 ### Windows Utilities
 
