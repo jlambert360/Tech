@@ -78,6 +78,7 @@
 - [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
 - [FanControl](https://github.com/Rem0o/FanControl.Releases/releases) - Highly customizable fan controlling software for Windows.
 - [FClones](https://github.com/pkolaczk/fclones) - Efficient command-line duplicate file finder.
+- [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) - Hex editor and data inspector.
 - [Icaros](https://www.videohelp.com/software/Icaros) - View thumbnails in windows explorer for files types like mkv, webm and flv.
 - [ImageGlass](https://imageglass.org/) - Lightweight photo viewer with thumbnail support for newer formats that Windows Photos doesn't support.
 - [MagickUtils](https://github.com/n00mkrad/magick-utils/releases) - ImageMagick based image processing toolkit for image modifying and conversion.
