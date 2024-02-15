@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
-<Settings component="StartMenu" version="4.4.170">
+<Settings component="StartMenu" version="4.4.191">
+	<ControlPanelCategories value="0"/>
 	<ProgramsStyle value="Inline"/>
 	<AllProgramsMetro value="0"/>
 	<FoldersFirst value="0"/>
@@ -10,21 +11,35 @@
 	<RecentProgsTop value="1"/>
 	<RecentSortName value="1"/>
 	<RecentProgKeys value="HiddenDigits"/>
-	<EnableJumplists value="1"/>
+	<EnableJumplists value="0"/>
 	<HybridShutdown value="0"/>
 	<MinMainHeight value="15"/>
 	<StartScreenShortcut value="0"/>
+	<MainSortZA value="0"/>
 	<MainSortOnce value="0"/>
 	<HighlightNew value="0"/>
+	<CheckWinUpdates value="0"/>
 	<MenuDelay value="300"/>
 	<UserPicturePath value="D:\JORDAN\Media\Memes\Pics\PFPs\PusheenPizzaNinjaBackground.png"/>
 	<ExpandFolderLinks value="1"/>
-	<ShowNextToTaskbar value="0"/>
+	<ShowNextToTaskbar value="1"/>
+	<SearchAutoComplete value="1"/>
+	<SearchPath value="0"/>
+	<SearchMetroApps value="1"/>
+	<SearchMetroSettings value="1"/>
+	<SearchKeywords value="1"/>
+	<SearchCategories value="1"/>
 	<SearchInternet value="0"/>
+	<MoreResults value="1"/>
 	<InvertMetroIcons value="0"/>
+	<AlignToWorkArea value="0"/>
 	<MainMenuAnimate value="1"/>
+	<FontSmoothing value="ClearType"/>
+	<MenuShadow value="1"/>
+	<EnableGlass value="1"/>
 	<GlassOverride value="1"/>
 	<GlassColor value="0"/>
+	<GlassOpacity value="50"/>
 	<SkinW7 value="Midnight"/>
 	<SkinVariationW7 value=""/>
 	<SkinOptionsW7>
@@ -38,9 +53,13 @@
 		<Line>WHITE_SUBMENUS2=0</Line>
 	</SkinOptionsW7>
 	<EnableStartButton value="1"/>
+	<AllTaskbars value="1"/>
 	<StartButtonType value="CustomButton"/>
-	<StartButtonPath value="D:\JORDAN\Backup\Windows 7 Start Buttons\Normal Small.png"/>
+	<StartButtonPath value="D:\JORDAN\Backup\Windows 7 Start Buttons\Normal Small Win11.png"/>
+	<StartButtonSize value="60"/>
 	<StartButtonAlign value="0"/>
+	<CustomTaskbar value="0"/>
+	<TaskbarLook value="Glass"/>
 	<SkipMetro value="1"/>
 	<MenuItems7>
 		<Line>Item1.Command=user_files</Line>
@@ -95,5 +114,6 @@
 		<Line>Item26.Command=windows_security</Line>
 		<Line>Item26.Settings=ITEM_DISABLED</Line>
 	</MenuItems7>
-	<EnableExplorer value="1"/>
+	<EnableExit value="1"/>
+	<EnableExplorer value="0"/>
 </Settings>
