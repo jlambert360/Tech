@@ -73,6 +73,7 @@
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window.
 - [Chocolatey](https://chocolatey.org/install) - Package manager for Windows.
 - [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Driver removal utility that can completely uninstall AMD/NVIDIA graphics card drivers and packages from your system.
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases) - List, add, install, and delete driver packages.
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/download.html) - Tool for dual monitors that lets you do things like locking mouse to 1 monitor, moving application to another monitor, or have different wallpaper setups between each monitor.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by filename instantly for Windows.
 - [FanControl](https://github.com/Rem0o/FanControl.Releases/releases) - Highly customizable fan controlling software for Windows.
