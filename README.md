@@ -171,6 +171,7 @@
 
 - [Aliucord](https://github.com/Aliucord/Aliucord) - BetterDiscord for Android.
 - [Aniyomi](https://aniyomi.jmir.xyz/) - Read and download anime and manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
+- [Droid-ify](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [Kuroba Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser.
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
 - [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
