@@ -177,6 +177,7 @@
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
 - [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
+- [Seal](https://github.com/JunkFood02/Seal) - Video/Audio Downloader for Android, based on yt-dlp.
 - [Shuttle2](https://github.com/timusus/Shuttle2) - Manage and play local music on an Android device, as well as music streamed via Jellyfin, Emby or Plex.
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
 - [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Up to date Discord app mod.
