@@ -174,6 +174,7 @@
 - [Droid-ify](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [Fluid Navigation Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Set custom gestures for actions.
 - [Kuroba Experimental](https://github.com/K1rakishou/Kuroba-Experimental) - Free and open source image board browser.
+- [Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [PurpleTV](https://purpletv.notion.site/Official-PurpleTV-Wiki-3d8d931ade15493dbb3dfe0ce0f6a5cc) - Modded Twitch app with adblocking, BTTV Emotes, autoclicker for channel points and more.
 - [ReVanced](https://github.com/revanced/revanced-manager) - APK patches for YouTube app with adblocking, sponsorblock, true amoled dark mode and a lot more.
 - [Shuttle2](https://github.com/timusus/Shuttle2) - Manage and play local music on an Android device, as well as music streamed via Jellyfin, Emby or Plex.
