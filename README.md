@@ -182,6 +182,7 @@
 - [Tachiyomi](https://tachiyomi.org/) - Read and download manga from multiple sources with automatic Anilist, MAL and Kitsu tracking.
 - [VendettaManager](https://github.com/vendetta-mod/VendettaManager) - Up to date Discord app mod.
 - [Xtra](https://f-droid.org/packages/com.github.andreyasadchy.xtra/) - Twitch client with customizable UI, VOD/Clip downloading, sleep timer, PIP mode, and more.
+- [YTDLnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp.
 
 ## Other
 
