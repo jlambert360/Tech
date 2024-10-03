@@ -178,7 +178,7 @@
     "isVip": false,
     "manualSkipOnFullVideo": false,
     "minDuration": 0,
-    "minutesSaved": 7008.64305370956,
+    "minutesSaved": 7486.78136139289,
     "muteSegments": true,
     "nextChapterKeybind": {
         "ctrl": true,
@@ -233,7 +233,7 @@
     "showUpsells": false,
     "showZoomToFillError": false,
     "showZoomToFillError2": false,
-    "skipCount": 13440,
+    "skipCount": 14226,
     "skipKeybind": {
         "key": "Enter"
     },
